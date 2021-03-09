@@ -17,7 +17,7 @@ import {
 
 export default function BasicExample() {
   return (
-    <Router>
+    <Router basename={'react-router-basic-forked'}>
       <div>
         <ul>
           <li>
